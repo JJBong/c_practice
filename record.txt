@@ -1,2 +1,2 @@
 Basics
-Structure ~ Operators / date: 09.04
+Input&Output / date: 09.06
